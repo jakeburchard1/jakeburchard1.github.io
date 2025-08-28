@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am an incoming postdoc at the [Complexity Science Hub](https://csh.ac.at/) in Vienna, Austria. I received a PhD in sociology from the University of Chicago in 2025 and a BA in mathematics from Cornell University in 2017. 
+I am an incoming Postdoctoral Associate in the Department of Sociology at Duke University. I received a PhD in sociology from the University of Chicago in 2025 and a BA in mathematics from Cornell University in 2017. 
 
 I am an economic and political sociologist broadly interested in the causes and consequences of inequality in post-industrial economies. I also have a strong interest in social theory and quantitative methodology, especially social network analysis. 
 
